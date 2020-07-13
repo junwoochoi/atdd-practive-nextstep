@@ -1,3 +1,6 @@
 [submodule "atdd-subway-map"]
 	path = atdd-subway-map
 	url = https://github.com/junwoochoi/atdd-subway-map.git
+[submodule "atdd-subway-path"]
+	path = atdd-subway-path
+	url = https://github.com/junwoochoi/atdd-subway-path.git
