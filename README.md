@@ -17,6 +17,6 @@
 - Step1
   - 지하철 노선도 조회 - [리뷰](https://github.com/next-step/atdd-subway-path/pull/69)
 - Step2
-  - 지하철 경로 조회 - 
+  - 지하철 경로 조회 - [리뷰](https://github.com/next-step/atdd-subway-path/pull/78)
 - Step3
-  - 리팩터링 및 스펙 변경 - 
+  - 리팩터링 및 스펙 변경 - [리뷰](https://github.com/next-step/atdd-subway-path/pull/86)
