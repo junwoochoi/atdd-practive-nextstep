@@ -4,3 +4,6 @@
 [submodule "atdd-subway-path"]
 	path = atdd-subway-path
 	url = https://github.com/junwoochoi/atdd-subway-path.git
+[submodule "atdd-subway-favorite"]
+	path = atdd-subway-favorite
+	url = https://github.com/junwoochoi/atdd-subway-favorite.git
