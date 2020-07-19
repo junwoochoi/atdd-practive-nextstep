@@ -20,3 +20,16 @@
   - 지하철 경로 조회 - [리뷰](https://github.com/next-step/atdd-subway-path/pull/78)
 - Step3
   - 리팩터링 및 스펙 변경 - [리뷰](https://github.com/next-step/atdd-subway-path/pull/86)
+
+## 3주차 TDD 리팩터링
+
+- Step0
+  - - 로그인 인증 프로세스 실습 - [리뷰](https://github.com/next-step/atdd-subway-favorite/pull/41)
+- Step1
+  - 로그인 토큰 발급 - [리뷰](https://github.com/next-step/atdd-subway-favorite/pull/41)
+- Step2
+  - 로그인 토큰 인증 - 
+- Step3
+  - 로그인 리팩터링- 
+- Step4
+  - 즐겨찾기 리팩터링 - 
