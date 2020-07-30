@@ -28,8 +28,8 @@
 - Step1
   - 로그인 토큰 발급 - [리뷰](https://github.com/next-step/atdd-subway-favorite/pull/41)
 - Step2
-  - 로그인 토큰 인증 - 
+  - 로그인 토큰 인증 - [리뷰](https://github.com/next-step/atdd-subway-favorite/pull/43)
 - Step3
-  - 로그인 리팩터링- 
+  - 로그인 리팩터링- [리뷰](https://github.com/next-step/atdd-subway-favorite/pull/49)
 - Step4
-  - 즐겨찾기 리팩터링 - 
+  - 즐겨찾기 리팩터링 - [리뷰](https://github.com/next-step/atdd-subway-favorite/pull/58)
