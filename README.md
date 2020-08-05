@@ -24,7 +24,7 @@
 ## 3주차 TDD 리팩터링
 
 - Step0
-  - - 로그인 인증 프로세스 실습 - [리뷰](https://github.com/next-step/atdd-subway-favorite/pull/41)
+  - 로그인 인증 프로세스 실습 - [리뷰](https://github.com/next-step/atdd-subway-favorite/pull/41)
 - Step1
   - 로그인 토큰 발급 - [리뷰](https://github.com/next-step/atdd-subway-favorite/pull/41)
 - Step2
@@ -33,3 +33,12 @@
   - 로그인 리팩터링- [리뷰](https://github.com/next-step/atdd-subway-favorite/pull/49)
 - Step4
   - 즐겨찾기 리팩터링 - [리뷰](https://github.com/next-step/atdd-subway-favorite/pull/58)
+
+## 4주차 API테스트와 문서화
+
+- Step 0 & 1
+  - 문서화 실습 & 요금 조회 - [리뷰](https://github.com/next-step/atdd-subway-fare/pull/12)
+- Step2
+  - 요금 정책 추가 - [리뷰](https://github.com/next-step/atdd-subway-fare/pull/15)
+- Step3
+  - 가장 빠른 도착 경로 조회 - [리뷰](https://github.com/next-step/atdd-subway-fare/pull/20)
